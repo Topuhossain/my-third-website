@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    
+    font-size: 50px
+     
+}
+.third-header{
+    color:black;
+}   
+.bem{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+.bem img {
+    width: 100%;
+}
+.back-ground{
+    background-image: url("images/hero.jpg");
+    background-repeat: no-repeat;
+}
+.back-ground img{
+    width: 100%;
+}
+#bold{
+    font-weight: 1000;
+}
+section{
+    height: 500px;
+    padding-top: 100px;
+    
+}
+.anchor-button{
+    text-decoration: none;
+    background-image:linear-gradient(75deg,gray,silver);
+    padding: 10px 20px;
+    font-weight: 800;
+    border-radius: 10px;
+    color: indigo;
+
+}
+.second{
+    background-image: url(images/backs.jpeg);
+}
+.highlight{
+    color: coral;
+}
+.shadow{
+    box-shadow: 10px 10px 50px grey;
+}
+#A{
+    border-left: 5px solid ;
+    border-image: linear-gradient(180deg,salmon,rgb(209, 193, 190) );
+    border-image-slice: 1;
+}
+#B{
+    border-left:  5px solid ;
+    border-image: linear-gradient(180deg,blue,skyblue);
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
